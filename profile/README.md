@@ -14,7 +14,7 @@ Este es un lugar donde podras encontrar programas, paginas, herramientas desarro
     </tr>
     <tr>
         <td align="center"><a href="https://j-josu.github.io/RobotScript/"><img height="141" src="./logos/RobotScript-Icon.svg" alt="RobotScript-Icon" /><br />RobotScript</a></td>
-        <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img height="130" src="./logos/mega-conversor-oc-ac.png" alt="Mega Conversor OC" /><br />Mega Conversor OC</a></td>
+        <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img height="130" src="./logos/mega-conversor-oc-ac2.png" alt="Mega Conversor OC" /><br />Mega Conversor OC</a></td>
         <td align="center"><a href="https://vonsim.github.io/"><img height="130" src="./logos/vonsim.png" alt="VONSIM" /><br />VONSIM</a></td>
     </tr>
 
