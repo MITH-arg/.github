@@ -14,7 +14,7 @@ Este es un lugar donde podras encontrar programas, paginas, herramientas desarro
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/MITH-arg/EI-Links"><img width="100" height="100" src="./logos/EI-Links.png" alt="EI-Links" /><br />EI-Links</a></td>
-        <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img height="130" src="./logos/megaConversor.png" alt="Mega Conversor OC" /><br />Mega Conversor OC</a></td>
+        <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img height="130" src="https://user-images.githubusercontent.com/55964635/173885445-0a00f680-d230-455d-abf2-f4aedad48bab.png" alt="Mega Conversor OC" /><br />Mega Conversor OC</a></td>
         <td align="center"><a href="https://vonsim.github.io/"><img height="130" src="./logos/vonsim.png" alt="VONSIM" /><br />VONSIM</a></td>
     </tr>
 
