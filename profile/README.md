@@ -6,7 +6,7 @@
 Este es un lugar donde podras encontrar programas, paginas, herramientas desarrolladas por otros programadores con la intencion de contribuir con sus pares.
 
 
-<table>
+<table align ="center">
     <tr>
         <td align="center"><a href="https://github.com/MITH-arg/EI-Links"><img width="100" height="100" src="./logos/EI-Links.png" alt="EI-Links" /><br />EI-Links</a></td>
         <td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img height="160" src="./logos/EI-Materias.png" alt="EI-Materias" /><br />EI-Materias</a></td>
