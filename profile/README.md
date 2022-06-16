@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2000&background=FF000000&multiline=true&lines=Mi+Idea%2C+Tu+Herramienta)](https://git.io/typing-svg)
+
 
 <h2 font-weight="bold" align="center">Proyectos</h2>
 
