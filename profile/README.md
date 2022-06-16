@@ -1,5 +1,5 @@
 
-<img height="141" src="./profile/header.png" alt="header" />
+<img src="./profile/header.png" alt="header" />
 
 <br>
 
